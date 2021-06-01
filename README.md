@@ -52,13 +52,13 @@
 
 - Know/Using
 
-| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/actions.png" alt="actions logo" width="24">](https://github.com/features/actions) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git logo" width="48">](https://git-scm.com/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/vscode.png" alt="vscode logo" width="24">](https://code.visualstudio.com/) | <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" width="36"> | <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" width="36"> |  Windows Terminal | many more...
-|---|---|---|---|---|---|---|
+| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker logo" width="36">](https://www.docker.com/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/aws.png" alt="aws logo" width="36">](https://aws.amazon.com/)| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/actions.png" alt="actions logo" width="24">](https://github.com/features/actions) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git logo" width="48">](https://git-scm.com/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/vscode.png" alt="vscode logo" width="24">](https://code.visualstudio.com/) | <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" width="36"> | <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" width="36"> |  Windows Terminal | many more...
+|---|---|---|---|---|---|---|---|---|
 
 - Learning
 
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker logo" width="28">](https://www.docker.com/) |[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" alt="kubernetes logo" width="26">](https://kubernetes.io/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/aws.png" alt="aws logo" width="24">](https://aws.amazon.com/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/codecov.png" alt="codecov logo" width="24">](https://codecov.io/)| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/jupyter_notebook.png" alt="jupyter notebook logo" width="30">](https://jupyter.org/)| many more...
-|---|---|---|---|---|---|
+|[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" alt="kubernetes logo" width="26">](https://kubernetes.io/)| many more...
+|---|---|
   
 ### SGBD 🛠️
 
