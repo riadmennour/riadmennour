@@ -36,6 +36,18 @@
   
 ## Projects  🎁 
 
+### Owiin : Free & Open Source CMMS
+
+Owiin is a CMMS program project (Computerized Maintenance Management System) derived from specific and extensive experience in the field, following the rules and best practice.
+
+Owiin is at the same time a ready-to-use standard product, and a solution that can be custom-configured through provided mechanisms that allow to work on every system element (data models, workflows, reports, dashboards, connectors, etc.).
+
+Owiin is based on the iDempiere Business Suite from which it inherits the basic functionalities and the configuration mechanisms.
+
+Please visit the project front page containing links for most of our resources: https://www.owiin.com/
+
+You can have a first-hand experience about the software in one of our live cloud test site: https://www.owiin.com/test
+  
   <br><br>
 ## My Skills :computer:
   
