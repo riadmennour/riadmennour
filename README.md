@@ -47,7 +47,11 @@ Owiin is based on the iDempiere Business Suite from which it inherits the basic 
 Please visit the project front page containing links for most of our resources: https://www.owiin.com/
 
 You can have a first-hand experience about the software in one of our live cloud test site: https://www.owiin.com/test
-  
+
+  <p align="center">
+  <img src="https://github.com/riadmennour/riadmennour/blob/main/index-mockup.png" height="600"/>
+</p>
+
   <br><br>
 ## My Skills :computer:
   
